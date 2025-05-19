@@ -1,7 +1,5 @@
 import React from "react";
 import { useLocation } from "react-router-dom";
-import "./back.css";
-
 const Back = ({ title, abt }) => {
   const location = useLocation();
   return (
