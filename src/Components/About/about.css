@@ -1,0 +1,68 @@
+.aboutHome {
+    height: auto;
+}
+
+
+.aboutHome #heading {
+    /* text-align: left; */
+    padding: 0;
+}
+
+.aboutHome .left img {
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+    margin-top: 30px;
+}
+.aboutHome .right {
+    padding: 90px 50px;
+}
+
+.aboutHome .items {
+    margin-top: 50px;
+}
+
+.aboutHome .item {
+    background-color: #fff;
+    margin-top: 30px;
+    padding: 20px;
+    transition: 0.5s;
+
+    &:hover {
+        background-color: #1eb2a6;
+        color: #fff;
+        cursor: pointer;
+        box-shadow: 0px 5px 25px -2px rgb(0 0 0 /6%);
+    }
+}
+
+.aboutHome .img {
+    width: 200px;
+}
+
+.aboutHome img {
+    width: 70px;
+    height: 70px;
+}
+
+.aboutHome .item h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.aboutHome .text {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
+
+@media screen and (max-width: 768px) {
+    .aboutHome .container {
+        flex-direction: column-reverse;
+    }
+
+    .aboutHome .row {
+        width: 100%;
+        padding: 60% 0px;
+    }
+}
