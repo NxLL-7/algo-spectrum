@@ -20,10 +20,15 @@ export const Hero = () => {
               sunt nisi cum culpa similique.
             </p>
             <div className="button">
-              <button className="primary-btn">
-                Register Now
-                <i className="fa fa-long-arrow-alt-right"></i>
-              </button>
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdBU-8HnOBxenR4mNzP13Cr-IGwM_QBrZFhOt1Q81zTyob4OA/viewform"
+                target="_blank"
+              >
+                <button className="primary-btn">
+                  Register Now
+                  <i className="fa fa-long-arrow-alt-right"></i>
+                </button>
+              </a>
               <Link to="/courses">
                 <button className="primary-btn rb">
                   All Courses
