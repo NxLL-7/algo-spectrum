@@ -14,8 +14,9 @@ export const Hero = () => {
               title="AlgoSpectrum Internship Programme"
             />
             <p>
-              Gain real-world experience through our customizable internships offered in hybrid, online, 
-              and offline formats—designed to help you grow, wherever you are.
+              Gain real-world experience through our customizable internships
+              offered in hybrid, online, and offline formats—designed to help
+              you grow, wherever you are.
             </p>
             <div className="button">
               <a
@@ -23,8 +24,7 @@ export const Hero = () => {
                 target="_blank"
               >
                 <button className="primary-btn">
-                  Register Now
-                  <i className="fa fa-long-arrow-alt-right"></i>
+                  Register Now !<i className="fa fa-long-arrow-alt-right"></i>
                 </button>
               </a>
               <Link to="/courses">
