@@ -26,7 +26,7 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "Shubham Sagar",
+        name: "Nitesh Bhaiya",
         totalTime: "30 lectures",
       },
     ],
@@ -39,7 +39,7 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "Ravi",
+        name: "Ritik bhaiya",
         totalTime: "30 lectures",
       },
     ],
@@ -52,7 +52,7 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "Shubham Sagar & Ravi",
+        name: "Nitesh and Ritik bhaiya",
         totalTime: "30 lectures",
       },
     ],
@@ -65,7 +65,7 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "~",
+        name: "Pintu bhaiya",
         totalTime: "30 lectures",
       },
     ],
@@ -78,7 +78,7 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "~",
+        name: "Devesh bhaiya",
         totalTime: "30 lectures",
       },
     ],

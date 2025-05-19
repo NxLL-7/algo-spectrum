@@ -14,10 +14,8 @@ export const Hero = () => {
               title="AlgoSpectrum Internship Programme"
             />
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eaque
-              minus ipsa animi iure quidem. Sapiente inventore architecto non
-              hic cupiditate voluptates laudantium, ipsum, temporibus officia
-              sunt nisi cum culpa similique.
+              Gain real-world experience through our customizable internships offered in hybrid, online, 
+              and offline formats—designed to help you grow, wherever you are.
             </p>
             <div className="button">
               <button className="primary-btn">
